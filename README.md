@@ -29,6 +29,5 @@ BeePress 是一个微信公众号文章导入插件，通过粘贴公众号文�
 
 此服务为付费服务，可以采集指定公众号所有历史文章，并帮助处理成适合 BeePress 批量导入的文本格式，便于用户自行导入
 
-详情请到官网查看
-
-[BeePress](http://xingyue.artizen.me/beepresspro?utm_source=github)
+[BeePress 官网](http://xingyue.artizen.me/beepresspro?utm_source=github)
+[BeePress 下载地址](https://wordpress.org/plugins/beepress/)
