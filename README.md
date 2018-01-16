@@ -31,4 +31,4 @@ BeePress 是一个微信公众号文章导入插件，通过粘贴公众号文�
 
 详情请到官网查看
 
-[BeePress](http://artizen.me/beepress)
+[BeePress](http://xingyue.artizen.me/beepresspro?utm_source=github)
